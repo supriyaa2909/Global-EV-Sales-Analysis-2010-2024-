@@ -1,9 +1,9 @@
 🚗 Global EV Sales Analysis (2010–2024)
-📊 Overview
+###📊 Overview
 
 This Power BI dashboard analyzes global electric vehicle (EV) trends from 2010 to 2024, focusing on sales growth, regional adoption, and powertrain insights.
 
-🎯 Key Insights
+###🎯 Key Insights
 EV adoption increased rapidly after 2020
 China leads global EV sales, followed by Europe and the USA
 BEVs dominate over PHEVs in recent years
